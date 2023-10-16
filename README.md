@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]
+# Hello, I'm Tuan
 
 I'm a software developer with over a year of experience working with ASP.NET Core, ASP.NET Core MVC, RESTful APIs, C#, and SQL Server. I'm passionate about creating efficient, scalable, and robust web applications. This is my GitHub profile where I share my projects and code.
 
