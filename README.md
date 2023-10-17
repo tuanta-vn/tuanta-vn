@@ -19,3 +19,4 @@ I'm a software developer with over a year of experience working with ASP.NET Cor
 - GitHub: [tuanta-vn](https://github.com/tuanta-vn)
 - LinkedIn: [Trần Anh Tuấn](https://www.linkedin.com/in/tr%E1%BA%A7n-anh-tu%E1%BA%A5n-baa57a16a/)
 - Email: tanhtuan509@gmail.com
+- Facebook: [Trần Tuấn](https://www.facebook.com/tuantavn/)
