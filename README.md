@@ -9,6 +9,7 @@ I'm a software developer with over a year of experience working with ASP.NET Cor
 - **Database:** SQL Server, My Sql
 - **APIs:** RESTful API development
 - **Version Control:** Git
+- **Other Skills:** Robotic Process Automation (RPA) · UiPath · Physical Design · Orchestrator
 
 ![csharp](https://img.shields.io/badge/csharp-000000?style=for-the-badge&logo=csharp&logoColor=white)
 ![dotnet](https://img.shields.io/badge/dotnet-000000?style=for-the-badge&logo=dotnet&logoColor=white)
